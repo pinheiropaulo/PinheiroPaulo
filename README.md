@@ -1,19 +1,27 @@
-### Hi there, it's me, Paulo Pinheiro!
+# Bem vindo(a) ao meu GitHub!
 
-Bem vindo(a) ao meu GitHub!
+<br/>
 
-Sou um estudante de programação focado em Desenvolvimento mobile com JavaScript
+## Sou um estudante de programação focado em Desenvolvimento mobile.
 
-- JavaScript
+### Atualmente estudando :
 
-- React Native
+- ### JavaScript
 
-- NodeJS
+- ### React Native
+
+<br/>
+
+## Mas logo quero ir para o Back End com o NodeJS com o TypeScript.
+
+## No momento apenas estudando e procurando uma vaga como programador mobile junior. Em React Native.
+
+<br/>
+
+## Um pouco mais sobre mim:
+
+- ### Apaixonado por Games, Musculação e Tecnologia.
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinheiropaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-No momento apenas estudando e procurando uma vaga como programador mobile junior. Em React Native.
-
-Um pouco mais sobre mim:
-
-- Além de programação, me interesso muito por jogos, principalmente aqueles do estilo ;
