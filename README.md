@@ -2,25 +2,15 @@
 
 <br/>
 
-## Sou um estudante de programação focado em Desenvolvimento mobile.
-
-### Atualmente estudando:
-
-- ### JavaScript
-
-- ### React Native
-
-### Mas logo quero ir para o Back End com o NodeJS com o TypeScript.
+## Sou um estudante de programação, apaixonado por tecnologia e games.
 
 <br/>
 
-## No momento apenas estudando e procurando uma vaga como programador mobile junior. Em React Native.
+## Atualmente estou fazendo o curso da Rocketseat o LaunchBase. Com foco no desenvolvimento Web utilizando o NodeJS
 
 <br/>
 
-## Um pouco mais sobre mim:
-
-- ### Apaixonado por Games, Musculação e Tecnologia.
+### No futuro pretendo me tornar um programador Full Stack. Utilizando JavaScript/TypeScript
 
 <br/>
 
