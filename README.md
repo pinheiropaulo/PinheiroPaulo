@@ -1,10 +1,12 @@
 # Bem vindo(a) ao meu GitHub!
 
-### Sou um estudante de programação, apaixonado por tecnologia e games.
+## Cursando Análise e Desenvolvimento de Sistemas.
+## Com foco no desenvolvimento Mobile.
 
-### Atualmente estou fazendo o curso da Rocketseat o LaunchBase. Com foco no desenvolvimento Web utilizando o NodeJS
+<br/>
 
-### No futuro pretendo me tornar um programador Full Stack. Utilizando JavaScript/TypeScript
+### Apaixonado por Games e Tecnologia.
+#### " Faça ou não faça. Tentativa não há . "
 
 <br/>
 
