@@ -1,7 +1,7 @@
 # Bem vindo(a) ao meu GitHub!
 
-## Cursando Análise e Desenvolvimento de Sistemas.
-## Com foco no desenvolvimento Mobile.
+### Cursando Análise e Desenvolvimento de Sistemas.
+#### Com foco no desenvolvimento Mobile.
 
 <br/>
 
